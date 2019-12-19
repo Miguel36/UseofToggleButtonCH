@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UseofToggleButton</string>
+    <string name="txt_title">ToggleButton</string>
+    <string name="txt_status">Estado:</string>
+</resources>
